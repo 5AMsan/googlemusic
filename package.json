@@ -8,6 +8,7 @@
   },
   "author": "5AMsan <kurushii@gmail.com>",
   "license": "MIT",
+  "repository":"5AMsan/googlemusic",
   "volumio_info": {
     "prettyName": "Google Play Music",
     "icon": "fa-feed",
