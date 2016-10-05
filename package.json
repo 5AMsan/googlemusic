@@ -1,0 +1,22 @@
+{
+  "name": "googlemusic",
+  "version": "0.1.0",
+  "description": "Access your Google Play Music library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "5AMsan <kurushii@gmail.com>",
+  "license": "MIT",
+  "volumio_info": {
+    "prettyName": "Google Play Music",
+    "icon": "fa-feed",
+    "plugin_type": "music_service",
+    "boot_priority":1
+  },
+    "dependencies": {
+    "playmusic": "^2.0",
+    "kew": "^0.7.0",
+    "v-conf": "^0.10.0"
+  }
+}

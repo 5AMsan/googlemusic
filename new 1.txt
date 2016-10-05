@@ -1,0 +1,53 @@
+{
+	"music_service": {
+		"googlemusic": {
+			"enabled": {
+				"type": "boolean",
+				"value": false
+			},
+			"status": {
+				"type": "string",
+				"value": "STOPPED"
+			}
+		},
+	},
+	"miscellanea": {
+		"fipNowPlaying":{
+			"enabled": {
+				"type": "boolean",
+				"value": false
+			},
+			"status"; {
+				"type": "string",
+				"value": "STOPPED"
+			}
+		}
+	}
+}
+
+
+
+
+{
+    "navigation": {
+        "prev": {
+          "uri": "googlemusic"
+        },
+        "lists" : [
+            title": "Goole Music Playlists",
+            "icon": "fa fa-folder-o",
+            "availableListViews": ["list","grid" ],
+        "items": [
+            {
+                "service": "googlemusic",
+                "type": "folder",
+                "artist": "",
+                "album": "",
+                "icon": "fa fa-folder-open-o",
+                "title" = "My name",
+                "uri" = "googlemusic/playlist/my-unreadable-id-from-google-play"
+            },
+            {...}
+        ]
+    }
+}

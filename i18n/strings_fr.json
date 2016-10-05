@@ -1,0 +1,12 @@
+{
+  "GMUSIC_USERNAME":"Adresse email du compte",
+  "GMUSIC_PASSWORD":"Mot de passe du compte",
+  "ALL_ACCESS":"All Access",
+  "SEARCH_RESULTS":"Nombre de résultats",
+  "SEARCH_SONGS_SECTION":"Pistes Google",
+  "SEARCH_ALBUMS_SECTION":"Albums Google",
+  "SEARCH_ARTISTS_SECTION":"Artistes Google",
+  "GMUSIC_CONFIGURATION":"Configuration Google Play Music",
+  "GMUSIC_ACCOUNT":"Compte Google",
+  "SAVE":"Sauver"
+}
